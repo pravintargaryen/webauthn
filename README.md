@@ -1,11 +1,10 @@
-# Backend
-
 **Dependencies**
 
-- Express.js
+- Express, React
 - WebAuthn API
 - Ed25519 cryptographic library
 
+# Backend
 ## Installation
 
 1. Navigate to the backend directory:
